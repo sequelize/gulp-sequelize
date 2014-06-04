@@ -1,4 +1,4 @@
 gulp-sequelize
 ==============
 
-Gulp tasks for the sequelize CLI.
+Gulp tasks for the sequelize.
