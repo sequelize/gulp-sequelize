@@ -1,0 +1,12 @@
+{
+  "name": "gulp-sequelize",
+  "version": "0.0.1",
+  "description": "Helper for running sequelize migrations",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/treythomas123/gulp-sequelize.git"
+  },
+  "author": "Trey Thomas <trey@treythomas.me>",
+  "license": "MIT"
+}
