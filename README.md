@@ -3,7 +3,14 @@ gulp-sequelize
 
 Gulp tasks for sequelize.
 
-## Usage
+[![NPM](https://nodei.co/npm/gulp-sequelize.png)](https://npmjs.org/package/gulp-sequelize)
+
+### Install
+```
+npm install --save-dev gulp-sequelize
+```
+
+### Usage
 
 ```js
 var gulpSequelize = require('gulp-sequelize')(sequelize);
