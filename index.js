@@ -4,7 +4,7 @@ var Umzug = require('umzug');
 var _ = require('lodash');
 
 module.exports = function gulpSequelize(sequelize, options) {
-  options = _.assign({
+  options = _.merge({
     storage: 'sequelize',
     storageOptions: {
       sequelize: sequelize
