@@ -1,6 +1,8 @@
 gulp-sequelize
 ==============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sequelize/gulp-sequelize.svg)](https://greenkeeper.io/)
+
 Gulp tasks for sequelize.
 
 [![NPM](https://nodei.co/npm/gulp-sequelize.png)](https://npmjs.org/package/gulp-sequelize)
